@@ -1,0 +1,10 @@
+name: ebay-config
+
+# Trading API OAuth - https://developer.ebay.com/api-docs/static/oauth-tokens.html
+
+# UPDATE the values in this file, before running the tests
+api.sandbox.ebay.com:
+    appid: SwathiAl-searchPr-SBX-3196b8010-a8aae8d6
+    certid: SBX-196b80107cfd-cdc1-4c8e-863e-6ef8
+    devid: 8e95f043-23fd-4ab5-ae75-5a0589aa5cee 
+    redirecturi: <redirect_uri-from-developer-portal>
